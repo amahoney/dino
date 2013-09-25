@@ -35,5 +35,28 @@ body{
 
 }
 
+.intro{
+	font-style:italics;
 
-@media only screen and (min-width: em) {	
+}
+
+.sub-intro{
+	font-style:italics;
+	font-size:0.875rem;
+
+
+}
+
+
+.bucket{
+	padding:1em;
+	background-color: #ccc;
+	border-radius: 8px;
+margin-bottom:  8px;
+}
+
+.bucket h3,
+.bucket p {
+
+	margin: 0;
+}
