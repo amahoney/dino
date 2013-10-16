@@ -1,4 +1,3 @@
-dino
-====
+# Dinosaurs
 
-text14
+A website listing popular dinosaurs.
